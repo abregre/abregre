@@ -57,19 +57,13 @@ $ cat ~/about.md
 <details open>
 <summary><code>$ neofetch --stats</code></summary>
 <br>
-<p align="center">
-  <a href="https://github.com/abregre">
-    <img width="48%" src="https://github-readme-stats-salesp07.vercel.app/api?username=abregre&show_icons=true&bg_color=08080c&title_color=ff2d55&text_color=e9e9f0&icon_color=9b6bff&border_color=1a1a24&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github" alt="Stats" />
-  </a>
-  <a href="https://github.com/abregre">
-    <img width="48%" src="https://streak-stats.demolab.com?user=abregre&theme=dark&background=08080c&ring=ff2d55&fire=ff2d55&currStreakLabel=ff2d55&sideLabels=e9e9f0&sideNums=e9e9f0&currStreakNum=e9e9f0&dates=8c8c9c&border=1a1a24" alt="Streak" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/abregre">
-    <img width="60%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=abregre&layout=donut&bg_color=08080c&title_color=ff2d55&text_color=e9e9f0&icon_color=9b6bff&border_color=1a1a24&hide_border=false&langs_count=8" alt="Top Languages" />
-  </a>
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=abregre&show_icons=true&bg_color=08080c&title_color=ff2d55&text_color=e9e9f0&icon_color=9b6bff&border_color=1a1a24&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github" alt="Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=abregre&theme=dark&background=08080c&ring=ff2d55&fire=ff2d55&currStreakLabel=ff2d55&sideLabels=e9e9f0&sideNums=e9e9f0&currStreakNum=e9e9f0&dates=8c8c9c&border=1a1a24" alt="Streak" />
+</div>
+<div align="center">
+  <img width="52%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=abregre&layout=donut&bg_color=08080c&title_color=ff2d55&text_color=e9e9f0&icon_color=9b6bff&border_color=1a1a24&hide_border=false&langs_count=8" alt="Top Languages" />
+</div>
 </details>
 
 ---
