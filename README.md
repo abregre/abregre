@@ -64,7 +64,7 @@ $ cat ~/about.md
 <td width="50%" valign="top"><img width="100%" src="https://streak-stats.demolab.com?user=abregre&theme=dark&background=08080c&ring=ff2d55&fire=ff2d55&currStreakLabel=ff2d55&sideLabels=e9e9f0&sideNums=e9e9f0&currStreakNum=e9e9f0&dates=8c8c9c&border=1a1a24" alt="Streak" /></td>
 </tr>
 <tr>
-<td colspan="2"><img width="100%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=abregre&layout=compact&bg_color=08080c&title_color=ff2d55&text_color=e9e9f0&icon_color=9b6bff&border_color=1a1a24&hide_border=false&langs_count=8" alt="Top Languages" /></td>
+<td colspan="2"><img width="100%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=abregre&layout=donut&bg_color=08080c&title_color=ff2d55&text_color=e9e9f0&icon_color=9b6bff&border_color=1a1a24&hide_border=false&langs_count=6" alt="Top Languages" /></td>
 </tr>
 </table>
 </div>
