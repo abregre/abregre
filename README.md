@@ -42,13 +42,13 @@ $ cat ~/about.md
 
 | | Project | What it does | Built with |
 |---|---|---|---|
-| 🏍️ | [**Moto Life**](https://github.com/abregre/moto-life) | Motorcycle route planner for Greece with road surface map | Vue 3, Capacitor, MapLibre, GraphHopper |
+| 🏍️ | [**Moto Life**](https://play.google.com/store/apps/details?id=gr.motolife.app) | Motorcycle route planner for Greece with road surface map | Vue 3, Capacitor, MapLibre, GraphHopper |
 | 🔍 | **CASE//UNKNOWN** | Mobile deduction game — find the contradiction, break the alibi | Vue 3, Capacitor |
 | 🎙️ | **Klaudio** | Talk to Claude Code from your phone — Whisper transcribes on local GPU | Whisper, WebSocket |
-| 💰 | [**cashly**](https://github.com/abregre/cashly) | Idle game | Vue 3 |
-| 🧠 | [**noema-ai**](https://github.com/abregre/noema-ai) | AI project | — |
-| 📨 | [**σε περιμένω**](https://github.com/abregre/seperimenw) | Event invitations with RSVP and shared photo wall | TypeScript |
-| 🔐 | [**quickWireguard**](https://github.com/abregre/quickWireguard) | One-command WireGuard VPN on AWS via Terraform | Terraform, HCL |
+| 💰 | **cashly** | Idle game | Vue 3 |
+| 🧠 | **noema-ai** | AI project | — |
+| 📨 | **σε περιμένω** | Event invitations with RSVP and shared photo wall | TypeScript |
+| 🔐 | **quickWireguard** | One-command WireGuard VPN on AWS via Terraform | Terraform, HCL |
 
 </details>
 
